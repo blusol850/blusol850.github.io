@@ -1,4 +1,6 @@
 # ContentBox
+This documentation is intended for clients of Bluewater Business Solutions, LLC.  
+The instructions below are to be used as best practices for our clients and should not be considered as full documentation of the ContentBox application.
 
 ## Internal Links
 
@@ -6,7 +8,7 @@ Instead of linking to the URL of the internal page such as `/my-new-page` or `ht
 
 To do so, you use **Link to ContentBox Page** 
 
-<!-- ![Link to A ContentBox Page](.gitbook/assets/screen-shot-2018-04-13-at-2.33.19-pm.png) -->
+![Link to A ContentBox Page](/ContentBox1.png)
 
 The resulting HTML will look like this inside the code editor:
 
@@ -28,7 +30,7 @@ If the owner of the website changes the domain name, page slug or anything of th
 
 This is simple, have all external links open with `target="_blank"`
 
-<!-- ![](.gitbook/assets/screen-shot-2018-04-13-at-3.06.10-pm.png) -->
+![](/ContentBox2.png)
 
 #### But Why?
 
@@ -38,7 +40,7 @@ My clients are my \#1 priority and I completely understand the need to link to e
 
 In the sidebar you simple select the featured image you wish to upload and add it there, that's it.  There's no need to include it in the body of the content to have it displayed where the theme designer would like for it to be.  This may change as the website changes, so do not hardcode inline images into the content of the blog post that are right aligned with inline CSS, etc.  _**NOTE:** If you find yourself doing this, you need to contact the website developer._
 
-<!-- ![](.gitbook/assets/screen-shot-2018-04-13-at-3.09.03-pm.png) -->
+![](/ContentBox3.png)
 
 ### Image Upload Locations
 
@@ -55,7 +57,7 @@ I HIGHLY recommend using all lowercase images with dashes instead of spaces in t
 
 Look at the auto-generated magic! The featured image was automatically inserted where the designer of the website felt it would look best as well as have the ability to apply the necessary styling of the images.
 
-<!-- ![Blog Display Page](.gitbook/assets/screen-shot-2018-04-13-at-3.08.19-pm.png) -->
+![Blog Display Page](/ContentBox4.png)
 
 
 
