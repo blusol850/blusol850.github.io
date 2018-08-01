@@ -8,11 +8,16 @@ module.exports = {
                 '', /* /foo/ */
                 // 'demo'
             ],
+            '/blog/': [
+                '', /* /foo/ */
+                'resize-gdrive-images-on-the-fly',
+                'private-s3-server-with-dockerscality-s3-server'
+            ],
 
             // fallback
             '/': [
                 '', /* / */
-                'contact', /* Contact   */
+                'blog/',
                 'about' /* /about.html */
             ]
         },
@@ -23,6 +28,10 @@ module.exports = {
             {
                 text: 'ContentBox',
                 link: '/ContentBox/'
+            },
+            {
+                text: 'Blog',
+                link: '/blog/'
             },
             {
                 text: 'Website',
